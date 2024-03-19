@@ -1,0 +1,10 @@
+ignition/deployments
+typechain-types
+artifacts
+cache
+artifacts-zk
+cache-zk
+.env
+.idea/
+node_modules/
+yarn-error.log
